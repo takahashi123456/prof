@@ -1,0 +1,13 @@
+*{
+    border: 1px black solid;
+}
+
+@media screen and (max-width: 480px) {
+    header{
+        display: flex;
+    }
+    .logo{
+        display: flex;
+    }
+  }
+  
